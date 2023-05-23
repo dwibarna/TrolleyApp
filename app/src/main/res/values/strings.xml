@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">TrolleyApp</string>
+    <string name="title_activity_list_store">ListStoreActivity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="name_dummy">Dwi A Sobarna</string>
+    <string name="role_dummy">Role: Android Developer</string>
+    <string name="nik_dummy">NIK: SOBA00004</string>
+    <string name="visit_text">Visit Stat</string>
+    <string name="total_score">Total Score</string>
+    <string name="total_visit">Total Visit</string>
+    <string name="percentage">% Percentage</string>
+    <string name="menu">Menu</string>
+    <string name="visit_mart">Visit Mart</string>
+    <string name="log_out">Log Out</string>
+    <string name="list_store">List Store</string>
+    <string name="not_visited_yet">not visited yet</string>
+    <string name="region_name">Region Name:</string>
+    <string name="dc_name_t_t_t_t">DC Name\t\t\t\t:</string>
+    <string name="area_name_t_t">Area Name\t\t:</string>
+    <string name="address_t_t_t_t_t">Address\t\t\t\t\t:</string>
+    <string name="store_id_t_t_t_t_t">Store ID\t\t\t\t\t:</string>
+    <string name="visit_date">Visit Date\t\t\t:</string>
+    <string name="visit">Visit</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="take_location">Take Location</string>
+    <string name="the_location_must_be_within_100_meters">The location must be within 100 meters.</string>
+    <string name="take_the_picture_first">take the picture first.</string>
+    <string name="welcome_to_the_login_page">Welcome to the login page</string>
+    <string name="please_enter_your_account_information_to_proceed">Please enter your account information to proceed</string>
 </resources>
